@@ -1,5 +1,5 @@
 <div align="center">
-  # Hi there 👋, I'm Sadiya Tasnim
+  <h1><b>Hi there 👋, I'm Sadiya Tasnim</b></h1>
 
 🌱 I’m currently learning web development and programming.
 
