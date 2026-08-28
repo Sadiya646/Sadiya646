@@ -1,4 +1,5 @@
-# Hi there 👋, I'm Sadiya Tasnim
+<div align="center">
+  # Hi there 👋, I'm Sadiya Tasnim
 
 🌱 I’m currently learning web development and programming.
 
@@ -13,9 +14,5 @@
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
----
+</div>
 
-# 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SadiyaTasnim&show_icons=true&theme=dark" />
-</p>
