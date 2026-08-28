@@ -1,7 +1,7 @@
 <div align="center">
   <h1><b>Hi there 👋, I'm Sadiya Tasnim</b></h1>
 
-🌱 I’m currently learning web development and programming.
+<p>I’m currently learning full-stack web development and modern technologies step-by-step.</p>
 
 ---
 
