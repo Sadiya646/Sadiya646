@@ -1,18 +1,98 @@
 <div align="center">
-  <h1><b>Hi there 👋, I'm Sadiya Tasnim</b></h1>
 
-<p>I’m currently learning full-stack web development and modern technologies step-by-step.</p>
+<img src="./banner.png" alt="Sadiya Tasnim Banner" width="100%">
+
+# Hi 👋, I'm Sadiya Tasnim
+
+### CSE Student | Aspiring Web Developer
+
+**Learning • Building • Improving**
+
+</div>
 
 ---
 
-# 🛠️ Tech Stack & Skills
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+## 👩‍💻 About Me
+
+I'm a Computer Science and Engineering student who is passionate about **Web Development**.
+Currently, I'm learning and improving my skills in modern web technologies by building projects and practicing regularly.
+
+I enjoy turning ideas into simple, responsive, and user-friendly websites.
+My goal is to continuously learn, build real-world projects, and grow as a web developer.
+
+---
+
+## 🚀 Currently
+
+* 🌱 I'm currently learning **React.js**
+* 💻 I'm improving my **JavaScript** skills
+* 🛠️ I'm building projects with **React.js**
+* 📚 I'm practicing modern web development and improving my coding skills
+* 🚀 I'm exploring how to build responsive and user-friendly web applications
+---
+
+## 🛠️ Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,git,github,vscode" />
 
 </div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="
+<a href="https://www.linkedin.com/in/sadia-tasnim-5b6906294/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+</a>
+
+<a href="mailto:YOUR_EMAIL_HERE">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+</a>
+
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170">
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ "Learning today, building tomorrow." ✨
+
+Thanks for visiting my profile! 😊
+
+</div>
+
 
