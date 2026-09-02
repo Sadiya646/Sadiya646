@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Sadiya Tasnim
 
-### CSE Student | Aspiring Web Developer
+### Aspiring Web Developer
 
 **Learning • Building • Improving**
 
@@ -49,7 +49,7 @@ My goal is to continuously learn, build real-world projects, and grow as a web d
 <a href="https://www.linkedin.com/in/sadia-tasnim-5b6906294/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
-">
+
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 
