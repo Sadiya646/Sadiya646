@@ -45,7 +45,7 @@ My goal is to continuously learn, build real-world projects, and grow as a web d
 
 <div align="center">
 
-<a href="
+
 <a href="https://www.linkedin.com/in/sadia-tasnim-5b6906294/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
@@ -53,11 +53,11 @@ My goal is to continuously learn, build real-world projects, and grow as a web d
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 
-<a href="mailto:YOUR_EMAIL_HERE">
+<a href="mailto:sadiatasnim646@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
 </a>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Sadiya646">
   <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
@@ -69,9 +69,9 @@ My goal is to continuously learn, build real-world projects, and grow as a web d
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api?username=Sadiya646&show_icons=true&theme=tokyonight&hide_border=true" height="170">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadiya646&layout=compact&theme=tokyonight&hide_border=true" height="170">
 
 </div>
 
@@ -81,7 +81,7 @@ My goal is to continuously learn, build real-world projects, and grow as a web d
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=Sadiya646&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
 </div>
 
