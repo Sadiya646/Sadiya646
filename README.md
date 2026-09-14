@@ -22,14 +22,12 @@ My goal is to continuously learn, build real-world projects, and grow as a web d
 
 ---
 
-## 🚀 Currently
-
-* 🌱 I'm currently learning **React.js**
-* 💻 I'm improving my **JavaScript** skills
-* 🛠️ I'm building projects with **React.js**
-* 📚 I'm practicing modern web development and improving my coding skills
-* 🚀 I'm exploring how to build responsive and user-friendly web applications
----
+🚀 Currently
+🌱 I'm currently learning Next.js
+💻 I'm improving my JavaScript and TypeScript skills
+🛠️ I'm building projects with Next.js & React.js
+📚 I'm practicing modern web development and improving my coding skills
+🚀 I'm exploring how to build responsive, scalable, and user-friendly web applications
 
 ## 🛠️ Skills
 
