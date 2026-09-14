@@ -22,7 +22,7 @@ My goal is to continuously learn, build real-world projects, and grow as a web d
 
 ---
 
-🚀 Currently
+## 🚀 Currently
 🌱 I'm currently learning Next.js
 💻 I'm improving my JavaScript and TypeScript skills
 🛠️ I'm building projects with Next.js & React.js
